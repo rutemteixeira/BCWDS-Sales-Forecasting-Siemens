@@ -12,6 +12,8 @@ The client’s business need was to develop an AI-driven sales forecasting model
 - `external_data.folder` - all macroeconomical indicators introduced from external data to enrich our existing correlations
 - `BCWDS_forecasting_code.ipynb` - main notebook code with full pipeline and model assesment
 - `BCWDS_forecasting_report.ipynb` - full written report in pdf
+- `Case2_Market_Data.csv` and `Case2_Sales_Data.csv` - source data
+- `Case2_Test Set Template.csv` - Template for how test set must be presented
 
  
 ## Technical Approach
